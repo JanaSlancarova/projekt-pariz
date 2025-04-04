@@ -2,5 +2,33 @@ html { box-sizing: border-box; }
 *, ::before, ::after { box-sizing: inherit; }
 
 body {
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 20px;
 
 }
+
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.pruvodceparizi img{
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+}
+
+
+
+/*.playfair-display-<uniquifier> {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
